@@ -1,0 +1,36 @@
+  name ,cpu_required,memory_required,read_bytes_required,write_bytes_required ,status , creation_time ,nice ,total_threrads,cores,process identity                                                                                                                                                              
+System,1.1,0,92.71QB,395.9908,running,01-01-1970 05:30,0,4,0,4492
+,,,,,,,,,,
+SafeExamBrowser.Service.exe,0,0,203.41LB,1.03LB,running,07-06-2021 07:28,0,4,0,4528
+,,,,,,,,,,
+TiWorker.exe,0,0,23.0108,1.79QB,running,07-06-2021 20:57,0,3,0,4728
+,,,,,,,,,,
+svchost.exe,0,0,0,0.00B,running,07-06-2021 07:28,0,2,0,4824
+,,,,,,,,,,
+armsvc.exe,0,0,0,0.008,running,07-06-2021 07:28,0,3,0,4832
+,,,,,,,,,,
+OpenDHCPServer.exe,0,0,329.54LB,187.008,running,07-06-2021 07:28,0,1,0,4912
+,,,,,,,,,,
+svchost.exe,0,0,0,0.008,running,07-06-2021 07:28,0,38,0,4968
+,,,,,,,,,,
+MsMpEng.exe,1,0,3.19AB,644.45QB,running,07-06-2021 07:28,0,4,0,5048
+,,,,,,,,,,
+svchost.exe,0,0,95.98LB,284.10LB,running,07-06-2021 07:28,0,2,0,5204
+,,,,,,,,,,
+svchost.exe,0,0,0.008,0,running,07-06-2021 16:16,0,11,0,5208
+,,,,,,,,,,
+svchost.exe,0,0,348.608,480,running,07-06-2021 07:28,0,2,0,5304
+,,,,,,,,,,
+QAAdminAgent.exe,0,0,282.008,0,running,07-06-2021 07:33,0,4,0,5344
+,,,,,,,,,,
+unsecapp.exe,0,0,0,0,running,07-06-2021 07:28,0,8,0,5452
+,,,,,,,,,,
+WmiPrvSE.exe,0,0,0,0,running,07-06-2021 07:28,0,2,0,5484
+,,,,,,,,,,
+rund1132.exe,0,0,0,1.42,running,07-06-2021 07:28,0,8,0,6100
+,,,,,,,,,,
+IAStorDataMgrSvc.exe,0,0,530.46LB,9.15,running,07-06-2021 07:35,0,2,,6588
+,,,,,,,,,,
+svchost.exe,0,0,1.6808,,running,08-06-2021 13:07,0,4,0,6700
+,,,,,,,,,,
+svchost.exe,0,0,2.3508,1.01,running,07-06-2021 07:30,0,4,0,4476
