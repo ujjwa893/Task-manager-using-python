@@ -12,8 +12,15 @@ The steps involved in the making of this project are-
 	Find the the priority of the process. 
  
 	Find the Memory Usage of the process 
-	Find the total written and read bytes by a particular process  Find the total number of threads created a process. 
-	Get user info of a process. 
-	Tabulate the information in a dataframe and get out of the loop 
-	 Get size() function to convert the size into bytes . 
-	 Perform command line argument parsing. 
+
+	Find the total written and read bytes by a particular process
+
+ Find the total number of threads created a process.
+
+	Get user info of a process.
+
+	Tabulate the information in a dataframe and get out of the loop
+
+ Get size() function to convert the size into bytes .
+
+ Perform command line argument parsing. 
