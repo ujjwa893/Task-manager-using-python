@@ -1,8 +1,12 @@
 # Task-manager-using-python
 The steps involved in the making of this project are- 
+
 	Psutil Library is used to get real time updates of the os.Pandas is used for dataframe creation. 
+
 	Process.oneshot- to get process details 
+
 	Find the time when the process was created . 
+
 	Find the CPU usage,number of cores that can execute this process: 
  
 	Find the percentage of CPU resource utilization  
